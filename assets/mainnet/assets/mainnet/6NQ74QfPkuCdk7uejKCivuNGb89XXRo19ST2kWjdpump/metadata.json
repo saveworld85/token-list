@@ -1,0 +1,11 @@
+{
+  "name": "SaveWord",
+  "symbol": "SAVE",
+  "description": "Komunitas Pecinta Alam untuk penyelamatan alam 2025 - 2030.",
+  "image": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/6NQ74QfPkuCdk7uejKCivuNGb89XXRo19ST2kWjdpump/logo.png",
+  "external_url": "https://saveword.org",
+  "attributes": [
+    {"trait_type": "Category", "value": "Community"},
+    {"trait_type": "Mission", "value": "Save the nature"}
+  ]
+}
